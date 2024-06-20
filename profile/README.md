@@ -60,6 +60,8 @@ These NFTs contain the pokemon details such as Type, Special Attack, etc.
 ## Gas Fees Grants (cw-fee module)
 Players can also get grants for the gas fees payments once they're added to the allowed-list. This makes the experience more user friendly.
 
+More details on the [Gameplay](https://github.com/PokeArch/game)
+
 # Challenges that we faced
 
 - Godot doesn't have good support for the blockchain integrations, we had to do alot of googling in order to get everything working.
