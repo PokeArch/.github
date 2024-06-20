@@ -58,6 +58,7 @@ Everytime a Pokemon is caught, a new NFT is minted for the player. The player ca
 These NFTs contain the pokemon details such as Type, Special Attack, etc.
 
 ## Gas Fees Grants (cw-fee module)
+[CW-fees module](https://github.com/PokeArch/contracts/blob/main/contracts/pokearch/src/contract.rs#L241) is implemented in the contract to provide fees allowances to the users
 Players can also get grants for the gas fees payments once they're added to the allowed-list. This makes the experience more user friendly.
 
 More details on the [Gameplay](https://github.com/PokeArch/game)
